@@ -17,6 +17,10 @@ Backend: https://github.com/baoqg9104/mini-trello-general-api
 - @hello-pangea/dnd for drag-and-drop
 - React Toastify for notifications
 
+## Screenshots 🖼️
+
+All screenshots are located in the `screenshot/` folder included with this repository.
+
 ## Project Structure 🗂️
 
 Top-level files:
